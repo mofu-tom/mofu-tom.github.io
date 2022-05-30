@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## 忘却曲線を用いた勉強手助けアプリ プライバシーポリシー
 
-You can use the [editor on GitHub](https://github.com/mofu-tom/mofu-tom.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+第三者に個人を特定できる情報を提供することはありません。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+個人情報の管理には最新の注意を払い、以下に掲げた通りに扱います。
 
-### Markdown
+# データ解析
+アプリの利便性向上のため、匿名で個人を特定できない範囲で最新の注意を払い、アクセス解析をしております。
+例えばアプリのクラッシュ時にどんな原因でクラッシュしたかを匿名で送信して、バグの素早い修正に役立たせております。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mofu-tom/mofu-tom.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 免責事項
+利用上の不具合・不都合に対して可能な限りサポートを行っておりますが、利用者が本アプリを利用して生じた損害に関して、開発元は責任を負わないものとします。
